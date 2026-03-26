@@ -8,7 +8,7 @@ When the user clicks anywhere on the screen, an image appears on the display are
 
 🛠️ Features
 
-🖱️ Click anywhere on the screen
+🖱️ Click anywhere on the screen.
 
 🖼️ Dynamically displays an image
 
