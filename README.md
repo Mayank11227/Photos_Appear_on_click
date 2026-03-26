@@ -12,6 +12,6 @@ When the user clicks anywhere on the screen, an image appears on the display are
 
 🖼️ Dynamically displays an image.
 
-⚡ Lightweight and fast
+⚡ Lightweight and fast.
 
 🎨 Easy to customize
