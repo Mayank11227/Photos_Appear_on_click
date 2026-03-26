@@ -10,7 +10,7 @@ When the user clicks anywhere on the screen, an image appears on the display are
 
 🖱️ Click anywhere on the screen.
 
-🖼️ Dynamically displays an image
+🖼️ Dynamically displays an image.
 
 ⚡ Lightweight and fast
 
