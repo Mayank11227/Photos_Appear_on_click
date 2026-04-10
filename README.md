@@ -16,5 +16,4 @@ When the user clicks anywhere on the screen, an image appears on the display are
 
 🎨 Easy to customize.. 
 
-mayank kumar
-
+mayank 
