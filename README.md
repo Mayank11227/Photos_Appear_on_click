@@ -14,4 +14,4 @@ When the user clicks anywhere on the screen, an image appears on the display are
 
 ⚡ Lightweight and fast.
 
-🎨 Easy to customize...
+🎨 Easy to customize.
